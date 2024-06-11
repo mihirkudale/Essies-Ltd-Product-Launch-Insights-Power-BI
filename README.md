@@ -1,3 +1,3 @@
-# Essies Ltd Product Launch Insights-Power-BI
+# Essies Ltd Product Launch Insights Power BI
 
 This project focuses on analyzing sales data and providing valuable insights for Essies Ltd's new product launch. Using Power BI, the analysis will cover customer segmentation, regional performance, and product categories. The project will highlight top-performing retailers, products, and subcategories, as well as unit sales during promotion events and across different product types. Additionally, the marketing head's requirements will be addressed, including analyzing sales by resellers, discounts, and customers, as well as sales across different retail counters. The final result will be an interactive Power BI dashboard that showcases key metrics and insights, allowing for a comprehensive understanding of the new product's performance.
